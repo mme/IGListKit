@@ -17,7 +17,7 @@
                BlueprintIdentifier = "7A02D02A2361525800B49FAE"
                BuildableName = "IGListDiffKit.framework"
                BlueprintName = "IGListDiffKit-tvOS"
-               ReferencedContainer = "container:IGListKit.xcodeproj">
+               ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "885FE1D31DC51A0D009CE2B4"
                BuildableName = "IGListKit.framework"
                BlueprintName = "IGListKit-tvOS"
-               ReferencedContainer = "container:IGListKit.xcodeproj">
+               ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -48,7 +48,7 @@
             BlueprintIdentifier = "885FE1D31DC51A0D009CE2B4"
             BuildableName = "IGListKit.framework"
             BlueprintName = "IGListKit-tvOS"
-            ReferencedContainer = "container:IGListKit.xcodeproj">
+            ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -59,7 +59,7 @@
                BlueprintIdentifier = "885FE1DB1DC51A0D009CE2B4"
                BuildableName = "IGListKit-tvOSTests.xctest"
                BlueprintName = "IGListKit-tvOSTests"
-               ReferencedContainer = "container:IGListKit.xcodeproj">
+               ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -80,7 +80,7 @@
             BlueprintIdentifier = "885FE1D31DC51A0D009CE2B4"
             BuildableName = "IGListKit.framework"
             BlueprintName = "IGListKit-tvOS"
-            ReferencedContainer = "container:IGListKit.xcodeproj">
+            ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -96,7 +96,7 @@
             BlueprintIdentifier = "885FE1D31DC51A0D009CE2B4"
             BuildableName = "IGListKit.framework"
             BlueprintName = "IGListKit-tvOS"
-            ReferencedContainer = "container:IGListKit.xcodeproj">
+            ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

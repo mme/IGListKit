@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:IGListKit.xcodeproj">
+      location = "group:/Users/markusecker/Documents/IGListKit/IGListKit_Converse.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">

@@ -23,9 +23,10 @@ Pod::Spec.new do |s|
   end
 
   s.subspec 'Default' do |cs|
-    cs.dependency 'IGListKit/Diffing'
+    cs.dependency 'IGListKit_Converse/Diffing'
 
-    [cs.ios, cs.tvos].each do |os|
+    #[cs.ios, cs.tvos].each do |os|
+    [cs.ios].each do |os|
       os.source_files = 'Source/IGListKit/**/*.{h,m,mm}'
       os.private_header_files = ['Source/IGListKit/Internal/*.h']
     end
@@ -37,12 +38,12 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.ios.deployment_target = '9.0'
-  s.tvos.deployment_target = '9.0'
-  s.osx.deployment_target = '10.11'
+  # s.tvos.deployment_target = '9.0'
+  # s.osx.deployment_target = '10.11'
 
   s.ios.frameworks = 'UIKit'
-  s.tvos.frameworks = 'UIKit'
-  s.osx.frameworks = 'Cocoa'
+  # s.tvos.frameworks = 'UIKit'
+  # s.osx.frameworks = 'Cocoa'
 
   s.library = 'c++'
   s.pod_target_xcconfig = {

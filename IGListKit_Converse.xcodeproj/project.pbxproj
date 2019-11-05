@@ -1501,7 +1501,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 887D0B301D870D7E009E01F7 /* Build configuration list for PBXProject "IGListKit" */;
+			buildConfigurationList = 887D0B301D870D7E009E01F7 /* Build configuration list for PBXProject "IGListKit_Converse" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -2763,7 +2763,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		887D0B301D870D7E009E01F7 /* Build configuration list for PBXProject "IGListKit" */ = {
+		887D0B301D870D7E009E01F7 /* Build configuration list for PBXProject "IGListKit_Converse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				887D0B481D870D7F009E01F7 /* Debug */,

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A02D01C2361520200B49FAE"
+               BlueprintIdentifier = "7A02D0372361526600B49FAE"
                BuildableName = "IGListDiffKit.framework"
-               BlueprintName = "IGListDiffKit"
-               ReferencedContainer = "container:IGListKit.xcodeproj">
+               BlueprintName = "IGListDiffKit-macOS"
+               ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "887D0B351D870D7E009E01F7"
+               BlueprintIdentifier = "DD3152661DE227FA00AC9D2C"
                BuildableName = "IGListKit.framework"
-               BlueprintName = "IGListKit"
-               ReferencedContainer = "container:IGListKit.xcodeproj">
+               BlueprintName = "IGListKit-macOS"
+               ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "887D0B351D870D7E009E01F7"
+            BlueprintIdentifier = "DD3152661DE227FA00AC9D2C"
             BuildableName = "IGListKit.framework"
-            BlueprintName = "IGListKit"
-            ReferencedContainer = "container:IGListKit.xcodeproj">
+            BlueprintName = "IGListKit-macOS"
+            ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -56,10 +56,10 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "887D0B3E1D870D7F009E01F7"
-               BuildableName = "IGListKitTests.xctest"
-               BlueprintName = "IGListKitTests"
-               ReferencedContainer = "container:IGListKit.xcodeproj">
+               BlueprintIdentifier = "88DF897B1E010E6A00B1B9B4"
+               BuildableName = "IGListKit-macOSTests.xctest"
+               BlueprintName = "IGListKit-macOSTests"
+               ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -77,10 +77,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "887D0B351D870D7E009E01F7"
+            BlueprintIdentifier = "DD3152661DE227FA00AC9D2C"
             BuildableName = "IGListKit.framework"
-            BlueprintName = "IGListKit"
-            ReferencedContainer = "container:IGListKit.xcodeproj">
+            BlueprintName = "IGListKit-macOS"
+            ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -93,10 +93,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "887D0B351D870D7E009E01F7"
+            BlueprintIdentifier = "DD3152661DE227FA00AC9D2C"
             BuildableName = "IGListKit.framework"
-            BlueprintName = "IGListKit"
-            ReferencedContainer = "container:IGListKit.xcodeproj">
+            BlueprintName = "IGListKit-macOS"
+            ReferencedContainer = "container:IGListKit_Converse.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
