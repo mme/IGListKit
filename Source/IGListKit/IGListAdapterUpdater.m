@@ -242,8 +242,10 @@ willPerformBatchUpdatesWithCollectionView:collectionView
                 [CATransaction begin];
                 [CATransaction setDisableActions:YES];
                 [collectionView performBatchUpdates:^{
+                    [UIView setAnimationsEnabled:NO];
                     batchUpdatesBlock(result);
                 } completion:^(BOOL finished) {
+                    [UIView setAnimationsEnabled:YES];
                     [CATransaction commit];
                     batchUpdatesCompletionBlock(finished);
                 }];
@@ -602,8 +604,10 @@ static NSUInteger IGListIdentifierHash(const void *item, NSUInteger (*size)(cons
     [CATransaction begin];
     [CATransaction setDisableActions:YES];
     [collectionView performBatchUpdates:^{
+        [UIView setAnimationsEnabled:NO];
         [collectionView reloadSections:visibleSections];
     } completion:^(BOOL finished) {
+        [UIView setAnimationsEnabled:YES];
         [CATransaction commit];
     }];
 }
