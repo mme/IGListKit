@@ -5,7 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-#import <IGListKit_Converse/IGListKit.h>
+#import <IGListKit_Converse/IGListKit_Converse.h>
 
 @interface IGListAdapterUpdater (DebugDescription)
 
