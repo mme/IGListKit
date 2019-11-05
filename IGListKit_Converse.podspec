@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'IGListKit_Converse'
-  s.version = '3.4.0'
+  s.version = '3.4.2'
   s.summary = 'A data-driven UICollectionView framework.'
   s.homepage = 'https://github.com/Instagram/IGListKit'
   s.documentation_url = 'https://instagram.github.io/IGListKit'
