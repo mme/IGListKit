@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <IGListKit/IGListKit.h>
+#import <IGListKit_Converse/IGListKit.h>
 
 @class IGTestObject;
 

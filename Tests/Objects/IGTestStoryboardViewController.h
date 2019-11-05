@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <IGListKit/IGListAdapterDataSource.h>
+#import <IGListKit_Converse/IGListAdapterDataSource.h>
 
 #import "IGTestObject.h"
 

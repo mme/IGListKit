@@ -9,7 +9,7 @@
 
 #import <OCMock/OCMock.h>
 
-#import <IGListKit/IGListKit.h>
+#import <IGListKit_Converse/IGListKit.h>
 
 #import "IGListAdapterProxy.h"
 

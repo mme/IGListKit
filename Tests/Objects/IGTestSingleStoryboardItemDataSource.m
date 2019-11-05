@@ -7,7 +7,7 @@
 
 #import "IGTestSingleStoryboardItemDataSource.h"
 
-#import <IGListKit/IGListSingleSectionController.h>
+#import <IGListKit_Converse/IGListSingleSectionController.h>
 
 #import "IGTestStoryboardCell.h"
 

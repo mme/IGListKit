@@ -12,7 +12,7 @@
 #import <OCMock/OCMock.h>
 
 #import <IGListDiffKit/IGListExperiments.h>
-#import <IGListKit/IGListKit.h>
+#import <IGListKit_Converse/IGListKit.h>
 
 #import "IGListAdapterInternal.h"
 #import "IGListTestAdapterDataSource.h"

@@ -1,0 +1,6 @@
+framework module Pods_IGListKit_ConverseTests {
+  umbrella header "Pods-IGListKit_ConverseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

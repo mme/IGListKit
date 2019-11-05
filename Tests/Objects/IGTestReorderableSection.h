@@ -8,7 +8,7 @@
 #import <UIKit/UIKit.h>
 
 #import <IGListDiffKit/IGListDiffable.h>
-#import <IGListKit/IGListSectionController.h>
+#import <IGListKit_Converse/IGListSectionController.h>
 
 @interface IGTestReorderableSectionObject : NSObject <IGListDiffable>
 

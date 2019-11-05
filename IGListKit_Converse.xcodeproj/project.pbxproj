@@ -19,7 +19,6 @@
 		16B71CEE22B0A08400FE96ED /* IGTestInvalidateLayoutDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 16B71CE822B0A08300FE96ED /* IGTestInvalidateLayoutDataSource.m */; };
 		16B71CEF22B0A08400FE96ED /* IGTestInvalidateLayoutObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 16B71CEA22B0A08300FE96ED /* IGTestInvalidateLayoutObject.m */; };
 		16B71CF022B0A08400FE96ED /* IGTestInvalidateLayoutObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 16B71CEA22B0A08300FE96ED /* IGTestInvalidateLayoutObject.m */; };
-		262373C2015556E71A70FA30 /* Pods_IGListKit_tvOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E980179F5E885E417EB20D55 /* Pods_IGListKit_tvOSTests.framework */; };
 		26271C8A1DAE94E40073E116 /* IGTestSingleNibItemDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 26271C891DAE94E40073E116 /* IGTestSingleNibItemDataSource.m */; };
 		26271C8C1DAE96740073E116 /* IGListSingleNibItemControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 26271C8B1DAE96740073E116 /* IGListSingleNibItemControllerTests.m */; };
 		290DF3771E9323E6009FE456 /* IGListDebuggerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 290DF3761E9323E6009FE456 /* IGListDebuggerTests.m */; };
@@ -66,6 +65,7 @@
 		401B5E63230111EC004099D5 /* IGTestNibCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 294369B01DB1B7AE0025F6E7 /* IGTestNibCell.xib */; };
 		401B5E64230111F3004099D5 /* IGTestNibSupplementaryView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2904861C1DCD02140007F41D /* IGTestNibSupplementaryView.xib */; };
 		401B5E65230111F7004099D5 /* IGTestStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 821BC4C21DB8CAE900172ED0 /* IGTestStoryboard.storyboard */; };
+		4B5A8650574F40FF679FC6F0 /* Pods_IGListKit_Converse_tvOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 83672DDA74160FD9A476536D /* Pods_IGListKit_Converse_tvOSTests.framework */; };
 		6A9EB3611F841E5D0070C572 /* IGTestSingleWithoutDeselectionDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A9EB3601F841E5D0070C572 /* IGTestSingleWithoutDeselectionDelegate.m */; };
 		6A9EB3621F841E5D0070C572 /* IGTestSingleWithoutDeselectionDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A9EB3601F841E5D0070C572 /* IGTestSingleWithoutDeselectionDelegate.m */; };
 		7A02CEEE2361511100B49FAE /* IGListReloadDataUpdater.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A02CEC72361510F00B49FAE /* IGListReloadDataUpdater.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -333,6 +333,7 @@
 		82914C5B1E6E2DEC0066C2F8 /* IGListTestContainerSizeSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 82914C5A1E6E2DEC0066C2F8 /* IGListTestContainerSizeSection.m */; };
 		82914C5C1E6E2DEC0066C2F8 /* IGListTestContainerSizeSection.m in Sources */ = {isa = PBXBuildFile; fileRef = 82914C5A1E6E2DEC0066C2F8 /* IGListTestContainerSizeSection.m */; };
 		829D7BAA1DD1819000549816 /* IGListSectionMapTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 829D7BA81DD1816400549816 /* IGListSectionMapTests.m */; };
+		82C104D9DB8DAE7F184E8B60 /* Pods_IGListKit_ConverseTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BE0F494B8DCC20C212560322 /* Pods_IGListKit_ConverseTests.framework */; };
 		88144F071D870EDC007C7F66 /* IGListAdapterE2ETests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88144EE21D870EDC007C7F66 /* IGListAdapterE2ETests.m */; };
 		88144F081D870EDC007C7F66 /* IGListAdapterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88144EE31D870EDC007C7F66 /* IGListAdapterTests.m */; };
 		88144F091D870EDC007C7F66 /* IGListAdapterUpdaterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88144EE41D870EDC007C7F66 /* IGListAdapterUpdaterTests.m */; };
@@ -356,7 +357,7 @@
 		883797082022304E00B94676 /* (null) in Headers */ = {isa = PBXBuildFile; };
 		88379728202236AB00B94676 /* IGListAdapterUpdateTester.m in Sources */ = {isa = PBXBuildFile; fileRef = 294CDE621F995DD7002CF6E4 /* IGListAdapterUpdateTester.m */; };
 		88379729202236AC00B94676 /* IGListAdapterUpdateTester.m in Sources */ = {isa = PBXBuildFile; fileRef = 294CDE621F995DD7002CF6E4 /* IGListAdapterUpdateTester.m */; };
-		885FE1DD1DC51A0D009CE2B4 /* IGListKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 885FE1D41DC51A0D009CE2B4 /* IGListKit.framework */; };
+		885FE1DD1DC51A0D009CE2B4 /* IGListKit_Converse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 885FE1D41DC51A0D009CE2B4 /* IGListKit_Converse.framework */; };
 		885FE22B1DC51B76009CE2B4 /* IGListAdapterE2ETests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88144EE21D870EDC007C7F66 /* IGListAdapterE2ETests.m */; };
 		885FE22C1DC51B76009CE2B4 /* IGListAdapterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88144EE31D870EDC007C7F66 /* IGListAdapterTests.m */; };
 		885FE22D1DC51B76009CE2B4 /* IGListAdapterUpdaterTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88144EE41D870EDC007C7F66 /* IGListAdapterUpdaterTests.m */; };
@@ -382,12 +383,11 @@
 		885FE2431DC51B86009CE2B4 /* IGTestStoryboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 821BC4C81DB8D5B200172ED0 /* IGTestStoryboardViewController.m */; };
 		885FE2451DC51B86009CE2B4 /* IGTestStoryboardCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 821BC4CD1DB8D8C500172ED0 /* IGTestStoryboardCell.m */; };
 		885FE2461DC51B86009CE2B4 /* IGTestSupplementarySource.m in Sources */ = {isa = PBXBuildFile; fileRef = 88144F061D870EDC007C7F66 /* IGTestSupplementarySource.m */; };
-		887D0B401D870D7F009E01F7 /* IGListKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 887D0B361D870D7E009E01F7 /* IGListKit.framework */; };
-		88DF89811E010E6A00B1B9B4 /* IGListKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD3152AC1DE227FA00AC9D2C /* IGListKit.framework */; };
+		887D0B401D870D7F009E01F7 /* IGListKit_Converse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 887D0B361D870D7E009E01F7 /* IGListKit_Converse.framework */; };
+		88DF89811E010E6A00B1B9B4 /* IGListKit_Converse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD3152AC1DE227FA00AC9D2C /* IGListKit_Converse.framework */; };
 		88DF89881E010F5C00B1B9B4 /* IGListDiffResultTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 294AC6311DDE4C19002FCE5D /* IGListDiffResultTests.m */; };
 		88DF89891E010F6500B1B9B4 /* IGListDiffSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88144EE61D870EDC007C7F66 /* IGListDiffSwiftTests.swift */; };
 		88DF898A1E010F7000B1B9B4 /* IGListDiffTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 88144EE81D870EDC007C7F66 /* IGListDiffTests.m */; };
-		DD468D380BBF350ACE7EA28B /* Pods_IGListKitTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AB7195278D0BBB5DA88D36F /* Pods_IGListKitTests.framework */; };
 		E56B7B3420A9D7100071010C /* IGListCollectionScrollingTraitsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E56B7B3320A9D7100071010C /* IGListCollectionScrollingTraitsTests.m */; };
 		E56B7B3520A9D7100071010C /* IGListCollectionScrollingTraitsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E56B7B3320A9D7100071010C /* IGListCollectionScrollingTraitsTests.m */; };
 		E8D312E01FC472A60009FA2F /* IGListContentInsetTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E8D312DF1FC472A60009FA2F /* IGListContentInsetTests.m */; };
@@ -440,6 +440,7 @@
 
 /* Begin PBXFileReference section */
 		08F0B0FD0690F4FC46DDF21B /* Pods-IGListKit-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IGListKit-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-IGListKit-tvOSTests/Pods-IGListKit-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		0D4D7B3E7731A9CCF56B2548 /* Pods-IGListKit_Converse-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IGListKit_Converse-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-IGListKit_Converse-tvOSTests/Pods-IGListKit_Converse-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		13DF01711FA0FD400092A320 /* IGListTestAdapterReorderingDataSource.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IGListTestAdapterReorderingDataSource.h; sourceTree = "<group>"; };
 		13DF01721FA0FD400092A320 /* IGListTestAdapterReorderingDataSource.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IGListTestAdapterReorderingDataSource.m; sourceTree = "<group>"; };
 		13DF01751FA1000E0092A320 /* IGTestReorderableSection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IGTestReorderableSection.h; sourceTree = "<group>"; };
@@ -450,7 +451,6 @@
 		16B71CE822B0A08300FE96ED /* IGTestInvalidateLayoutDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGTestInvalidateLayoutDataSource.m; sourceTree = "<group>"; };
 		16B71CE922B0A08300FE96ED /* IGTestInvalidateLayoutObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IGTestInvalidateLayoutObject.h; sourceTree = "<group>"; };
 		16B71CEA22B0A08300FE96ED /* IGTestInvalidateLayoutObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGTestInvalidateLayoutObject.m; sourceTree = "<group>"; };
-		1AB7195278D0BBB5DA88D36F /* Pods_IGListKitTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IGListKitTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D6BFC11D5380CB8311E1029 /* Pods-IGListKit-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IGListKit-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IGListKit-tvOSTests/Pods-IGListKit-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		26271C881DAE94E40073E116 /* IGTestSingleNibItemDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IGTestSingleNibItemDataSource.h; sourceTree = "<group>"; };
 		26271C891DAE94E40073E116 /* IGTestSingleNibItemDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGTestSingleNibItemDataSource.m; sourceTree = "<group>"; };
@@ -628,6 +628,7 @@
 		82914C591E6E2DEC0066C2F8 /* IGListTestContainerSizeSection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IGListTestContainerSizeSection.h; sourceTree = "<group>"; };
 		82914C5A1E6E2DEC0066C2F8 /* IGListTestContainerSizeSection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGListTestContainerSizeSection.m; sourceTree = "<group>"; };
 		829D7BA81DD1816400549816 /* IGListSectionMapTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGListSectionMapTests.m; sourceTree = "<group>"; };
+		83672DDA74160FD9A476536D /* Pods_IGListKit_Converse_tvOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IGListKit_Converse_tvOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		88144EE21D870EDC007C7F66 /* IGListAdapterE2ETests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGListAdapterE2ETests.m; sourceTree = "<group>"; };
 		88144EE31D870EDC007C7F66 /* IGListAdapterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGListAdapterTests.m; sourceTree = "<group>"; };
 		88144EE41D870EDC007C7F66 /* IGListAdapterUpdaterTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGListAdapterUpdaterTests.m; sourceTree = "<group>"; };
@@ -658,18 +659,21 @@
 		88144F021D870EDC007C7F66 /* IGTestSingleItemDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGTestSingleItemDataSource.m; sourceTree = "<group>"; };
 		88144F051D870EDC007C7F66 /* IGTestSupplementarySource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IGTestSupplementarySource.h; sourceTree = "<group>"; };
 		88144F061D870EDC007C7F66 /* IGTestSupplementarySource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGTestSupplementarySource.m; sourceTree = "<group>"; };
-		885FE1D41DC51A0D009CE2B4 /* IGListKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IGListKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		885FE1DC1DC51A0D009CE2B4 /* IGListKit-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IGListKit-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		887D0B361D870D7E009E01F7 /* IGListKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IGListKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		887D0B3F1D870D7F009E01F7 /* IGListKitTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IGListKitTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		885FE1D41DC51A0D009CE2B4 /* IGListKit_Converse.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IGListKit_Converse.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		885FE1DC1DC51A0D009CE2B4 /* IGListKit_Converse-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IGListKit_Converse-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		887D0B361D870D7E009E01F7 /* IGListKit_Converse.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IGListKit_Converse.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		887D0B3F1D870D7F009E01F7 /* IGListKit_ConverseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IGListKit_ConverseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		887D0B571D870E1E009E01F7 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		88DF897C1E010E6A00B1B9B4 /* IGListKit-macOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IGListKit-macOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88DF897C1E010E6A00B1B9B4 /* IGListKit_Converse-macOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IGListKit_Converse-macOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9574C58371B7A46F62E9AC24 /* Pods-IGListKitTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IGListKitTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-IGListKitTests/Pods-IGListKitTests.release.xcconfig"; sourceTree = "<group>"; };
+		BE0F494B8DCC20C212560322 /* Pods_IGListKit_ConverseTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IGListKit_ConverseTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA8726D7FF3608E20E9F7EC6 /* Pods-IGListKitTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IGListKitTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IGListKitTests/Pods-IGListKitTests.debug.xcconfig"; sourceTree = "<group>"; };
-		DD3152AC1DE227FA00AC9D2C /* IGListKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IGListKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3075856FD1B035926BD3BEF /* Pods-IGListKit_ConverseTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IGListKit_ConverseTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IGListKit_ConverseTests/Pods-IGListKit_ConverseTests.debug.xcconfig"; sourceTree = "<group>"; };
+		DD3152AC1DE227FA00AC9D2C /* IGListKit_Converse.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IGListKit_Converse.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E2CA91CA09DBC893D174A9B7 /* Pods-IGListKit_ConverseTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IGListKit_ConverseTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-IGListKit_ConverseTests/Pods-IGListKit_ConverseTests.release.xcconfig"; sourceTree = "<group>"; };
 		E56B7B3320A9D7100071010C /* IGListCollectionScrollingTraitsTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IGListCollectionScrollingTraitsTests.m; sourceTree = "<group>"; };
 		E8D312DF1FC472A60009FA2F /* IGListContentInsetTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IGListContentInsetTests.m; sourceTree = "<group>"; };
-		E980179F5E885E417EB20D55 /* Pods_IGListKit_tvOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IGListKit_tvOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F7F473C313F0C487EC123A0F /* Pods-IGListKit_Converse-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IGListKit_Converse-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IGListKit_Converse-tvOSTests/Pods-IGListKit_Converse-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -706,8 +710,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				885FE1DD1DC51A0D009CE2B4 /* IGListKit.framework in Frameworks */,
-				262373C2015556E71A70FA30 /* Pods_IGListKit_tvOSTests.framework in Frameworks */,
+				885FE1DD1DC51A0D009CE2B4 /* IGListKit_Converse.framework in Frameworks */,
+				4B5A8650574F40FF679FC6F0 /* Pods_IGListKit_Converse_tvOSTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -723,8 +727,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				887D0B401D870D7F009E01F7 /* IGListKit.framework in Frameworks */,
-				DD468D380BBF350ACE7EA28B /* Pods_IGListKitTests.framework in Frameworks */,
+				887D0B401D870D7F009E01F7 /* IGListKit_Converse.framework in Frameworks */,
+				82C104D9DB8DAE7F184E8B60 /* Pods_IGListKit_ConverseTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -732,7 +736,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				88DF89811E010E6A00B1B9B4 /* IGListKit.framework in Frameworks */,
+				88DF89811E010E6A00B1B9B4 /* IGListKit_Converse.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -751,7 +755,7 @@
 			isa = PBXGroup;
 			children = (
 				7A02D0252361522600B49FAE /* IGListDiffKit */,
-				7A02CEC6236150C400B49FAE /* IGListKit */,
+				7A02CEC6236150C400B49FAE /* IGListKit_Converse */,
 				7A02D0AC236153CE00B49FAE /* Info.plist */,
 			);
 			path = Source;
@@ -774,6 +778,10 @@
 				08F0B0FD0690F4FC46DDF21B /* Pods-IGListKit-tvOSTests.release.xcconfig */,
 				CA8726D7FF3608E20E9F7EC6 /* Pods-IGListKitTests.debug.xcconfig */,
 				9574C58371B7A46F62E9AC24 /* Pods-IGListKitTests.release.xcconfig */,
+				F7F473C313F0C487EC123A0F /* Pods-IGListKit_Converse-tvOSTests.debug.xcconfig */,
+				0D4D7B3E7731A9CCF56B2548 /* Pods-IGListKit_Converse-tvOSTests.release.xcconfig */,
+				D3075856FD1B035926BD3BEF /* Pods-IGListKit_ConverseTests.debug.xcconfig */,
+				E2CA91CA09DBC893D174A9B7 /* Pods-IGListKit_ConverseTests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -781,13 +789,13 @@
 		41882EBBC340173A8053E3AF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				E980179F5E885E417EB20D55 /* Pods_IGListKit_tvOSTests.framework */,
-				1AB7195278D0BBB5DA88D36F /* Pods_IGListKitTests.framework */,
+				83672DDA74160FD9A476536D /* Pods_IGListKit_Converse_tvOSTests.framework */,
+				BE0F494B8DCC20C212560322 /* Pods_IGListKit_ConverseTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		7A02CEC6236150C400B49FAE /* IGListKit */ = {
+		7A02CEC6236150C400B49FAE /* IGListKit_Converse */ = {
 			isa = PBXGroup;
 			children = (
 				7A02CF632361511700B49FAE /* Internal */,
@@ -831,7 +839,7 @@
 				7A02CEDD2361511000B49FAE /* IGListUpdatingDelegate.h */,
 				7A02CEC92361510F00B49FAE /* IGListWorkingRangeDelegate.h */,
 			);
-			path = IGListKit;
+			path = IGListKit_Converse;
 			sourceTree = "<group>";
 		};
 		7A02CF632361511700B49FAE /* Internal */ = {
@@ -1024,12 +1032,12 @@
 		887D0B371D870D7E009E01F7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				887D0B361D870D7E009E01F7 /* IGListKit.framework */,
-				887D0B3F1D870D7F009E01F7 /* IGListKitTests.xctest */,
-				885FE1D41DC51A0D009CE2B4 /* IGListKit.framework */,
-				885FE1DC1DC51A0D009CE2B4 /* IGListKit-tvOSTests.xctest */,
-				DD3152AC1DE227FA00AC9D2C /* IGListKit.framework */,
-				88DF897C1E010E6A00B1B9B4 /* IGListKit-macOSTests.xctest */,
+				887D0B361D870D7E009E01F7 /* IGListKit_Converse.framework */,
+				887D0B3F1D870D7F009E01F7 /* IGListKit_ConverseTests.xctest */,
+				885FE1D41DC51A0D009CE2B4 /* IGListKit_Converse.framework */,
+				885FE1DC1DC51A0D009CE2B4 /* IGListKit_Converse-tvOSTests.xctest */,
+				DD3152AC1DE227FA00AC9D2C /* IGListKit_Converse.framework */,
+				88DF897C1E010E6A00B1B9B4 /* IGListKit_Converse-macOSTests.xctest */,
 				7A02D01D2361520200B49FAE /* IGListDiffKit.framework */,
 				7A02D02B2361525800B49FAE /* IGListDiffKit.framework */,
 				7A02D0382361526600B49FAE /* IGListDiffKit.framework */,
@@ -1338,9 +1346,9 @@
 			productReference = 7A02D0382361526600B49FAE /* IGListDiffKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		885FE1D31DC51A0D009CE2B4 /* IGListKit-tvOS */ = {
+		885FE1D31DC51A0D009CE2B4 /* IGListKit_Converse-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 885FE1E91DC51A0D009CE2B4 /* Build configuration list for PBXNativeTarget "IGListKit-tvOS" */;
+			buildConfigurationList = 885FE1E91DC51A0D009CE2B4 /* Build configuration list for PBXNativeTarget "IGListKit_Converse-tvOS" */;
 			buildPhases = (
 				885FE1CF1DC51A0D009CE2B4 /* Sources */,
 				885FE1D01DC51A0D009CE2B4 /* Frameworks */,
@@ -1351,14 +1359,14 @@
 			dependencies = (
 				7A02D0BD23615B8B00B49FAE /* PBXTargetDependency */,
 			);
-			name = "IGListKit-tvOS";
+			name = "IGListKit_Converse-tvOS";
 			productName = "IGListKit-tvOS";
-			productReference = 885FE1D41DC51A0D009CE2B4 /* IGListKit.framework */;
+			productReference = 885FE1D41DC51A0D009CE2B4 /* IGListKit_Converse.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		885FE1DB1DC51A0D009CE2B4 /* IGListKit-tvOSTests */ = {
+		885FE1DB1DC51A0D009CE2B4 /* IGListKit_Converse-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 885FE1EA1DC51A0D009CE2B4 /* Build configuration list for PBXNativeTarget "IGListKit-tvOSTests" */;
+			buildConfigurationList = 885FE1EA1DC51A0D009CE2B4 /* Build configuration list for PBXNativeTarget "IGListKit_Converse-tvOSTests" */;
 			buildPhases = (
 				9B12CED6C1A4A7B9137C8C52 /* [CP] Check Pods Manifest.lock */,
 				885FE1D81DC51A0D009CE2B4 /* Sources */,
@@ -1371,14 +1379,14 @@
 			dependencies = (
 				885FE1DF1DC51A0D009CE2B4 /* PBXTargetDependency */,
 			);
-			name = "IGListKit-tvOSTests";
+			name = "IGListKit_Converse-tvOSTests";
 			productName = "IGListKit-tvOSTests";
-			productReference = 885FE1DC1DC51A0D009CE2B4 /* IGListKit-tvOSTests.xctest */;
+			productReference = 885FE1DC1DC51A0D009CE2B4 /* IGListKit_Converse-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		887D0B351D870D7E009E01F7 /* IGListKit */ = {
+		887D0B351D870D7E009E01F7 /* IGListKit_Converse */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 887D0B4A1D870D7F009E01F7 /* Build configuration list for PBXNativeTarget "IGListKit" */;
+			buildConfigurationList = 887D0B4A1D870D7F009E01F7 /* Build configuration list for PBXNativeTarget "IGListKit_Converse" */;
 			buildPhases = (
 				887D0B311D870D7E009E01F7 /* Sources */,
 				887D0B321D870D7E009E01F7 /* Frameworks */,
@@ -1389,14 +1397,14 @@
 			dependencies = (
 				7A02D0B32361546300B49FAE /* PBXTargetDependency */,
 			);
-			name = IGListKit;
+			name = IGListKit_Converse;
 			productName = IGListKit;
-			productReference = 887D0B361D870D7E009E01F7 /* IGListKit.framework */;
+			productReference = 887D0B361D870D7E009E01F7 /* IGListKit_Converse.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		887D0B3E1D870D7F009E01F7 /* IGListKitTests */ = {
+		887D0B3E1D870D7F009E01F7 /* IGListKit_ConverseTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 887D0B4D1D870D7F009E01F7 /* Build configuration list for PBXNativeTarget "IGListKitTests" */;
+			buildConfigurationList = 887D0B4D1D870D7F009E01F7 /* Build configuration list for PBXNativeTarget "IGListKit_ConverseTests" */;
 			buildPhases = (
 				9B9AB53579E3C2BBEEBC3548 /* [CP] Check Pods Manifest.lock */,
 				887D0B3B1D870D7F009E01F7 /* Sources */,
@@ -1409,14 +1417,14 @@
 			dependencies = (
 				887D0B421D870D7F009E01F7 /* PBXTargetDependency */,
 			);
-			name = IGListKitTests;
+			name = IGListKit_ConverseTests;
 			productName = IGListKitTests;
-			productReference = 887D0B3F1D870D7F009E01F7 /* IGListKitTests.xctest */;
+			productReference = 887D0B3F1D870D7F009E01F7 /* IGListKit_ConverseTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		88DF897B1E010E6A00B1B9B4 /* IGListKit-macOSTests */ = {
+		88DF897B1E010E6A00B1B9B4 /* IGListKit_Converse-macOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 88DF89861E010E6A00B1B9B4 /* Build configuration list for PBXNativeTarget "IGListKit-macOSTests" */;
+			buildConfigurationList = 88DF89861E010E6A00B1B9B4 /* Build configuration list for PBXNativeTarget "IGListKit_Converse-macOSTests" */;
 			buildPhases = (
 				88DF89781E010E6A00B1B9B4 /* Sources */,
 				88DF89791E010E6A00B1B9B4 /* Frameworks */,
@@ -1427,14 +1435,14 @@
 			dependencies = (
 				88DF89831E010E6A00B1B9B4 /* PBXTargetDependency */,
 			);
-			name = "IGListKit-macOSTests";
+			name = "IGListKit_Converse-macOSTests";
 			productName = "IGListKitTests-macOS";
-			productReference = 88DF897C1E010E6A00B1B9B4 /* IGListKit-macOSTests.xctest */;
+			productReference = 88DF897C1E010E6A00B1B9B4 /* IGListKit_Converse-macOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		DD3152661DE227FA00AC9D2C /* IGListKit-macOS */ = {
+		DD3152661DE227FA00AC9D2C /* IGListKit_Converse-macOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DD3152A91DE227FA00AC9D2C /* Build configuration list for PBXNativeTarget "IGListKit-macOS" */;
+			buildConfigurationList = DD3152A91DE227FA00AC9D2C /* Build configuration list for PBXNativeTarget "IGListKit_Converse-macOS" */;
 			buildPhases = (
 				DD3152671DE227FA00AC9D2C /* Sources */,
 				DD31527B1DE227FA00AC9D2C /* Frameworks */,
@@ -1445,9 +1453,9 @@
 			dependencies = (
 				7A02D0BF23615B9000B49FAE /* PBXTargetDependency */,
 			);
-			name = "IGListKit-macOS";
+			name = "IGListKit_Converse-macOS";
 			productName = IGListKit;
-			productReference = DD3152AC1DE227FA00AC9D2C /* IGListKit.framework */;
+			productReference = DD3152AC1DE227FA00AC9D2C /* IGListKit_Converse.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -1514,12 +1522,12 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				887D0B351D870D7E009E01F7 /* IGListKit */,
-				887D0B3E1D870D7F009E01F7 /* IGListKitTests */,
-				885FE1D31DC51A0D009CE2B4 /* IGListKit-tvOS */,
-				885FE1DB1DC51A0D009CE2B4 /* IGListKit-tvOSTests */,
-				DD3152661DE227FA00AC9D2C /* IGListKit-macOS */,
-				88DF897B1E010E6A00B1B9B4 /* IGListKit-macOSTests */,
+				887D0B351D870D7E009E01F7 /* IGListKit_Converse */,
+				887D0B3E1D870D7F009E01F7 /* IGListKit_ConverseTests */,
+				885FE1D31DC51A0D009CE2B4 /* IGListKit_Converse-tvOS */,
+				885FE1DB1DC51A0D009CE2B4 /* IGListKit_Converse-tvOSTests */,
+				DD3152661DE227FA00AC9D2C /* IGListKit_Converse-macOS */,
+				88DF897B1E010E6A00B1B9B4 /* IGListKit_Converse-macOSTests */,
 				7A02D01C2361520200B49FAE /* IGListDiffKit */,
 				7A02D02A2361525800B49FAE /* IGListDiffKit-tvOS */,
 				7A02D0372361526600B49FAE /* IGListDiffKit-macOS */,
@@ -1564,7 +1572,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-IGListKit-tvOSTests/Pods-IGListKit-tvOSTests-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-IGListKit_Converse-tvOSTests/Pods-IGListKit_Converse-tvOSTests-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/OCMock-tvOS/OCMock.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -1573,7 +1581,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-IGListKit-tvOSTests/Pods-IGListKit-tvOSTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-IGListKit_Converse-tvOSTests/Pods-IGListKit_Converse-tvOSTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		21587AA7E74BD876C049E30D /* [CP] Embed Pods Frameworks */ = {
@@ -1582,7 +1590,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-IGListKitTests/Pods-IGListKitTests-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-IGListKit_ConverseTests/Pods-IGListKit_ConverseTests-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/OCMock-iOS/OCMock.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -1591,7 +1599,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-IGListKitTests/Pods-IGListKitTests-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-IGListKit_ConverseTests/Pods-IGListKit_ConverseTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		9B12CED6C1A4A7B9137C8C52 /* [CP] Check Pods Manifest.lock */ = {
@@ -1605,7 +1613,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-IGListKit-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-IGListKit_Converse-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1623,7 +1631,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-IGListKitTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-IGListKit_ConverseTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -1920,17 +1928,17 @@
 		};
 		885FE1DF1DC51A0D009CE2B4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 885FE1D31DC51A0D009CE2B4 /* IGListKit-tvOS */;
+			target = 885FE1D31DC51A0D009CE2B4 /* IGListKit_Converse-tvOS */;
 			targetProxy = 885FE1DE1DC51A0D009CE2B4 /* PBXContainerItemProxy */;
 		};
 		887D0B421D870D7F009E01F7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 887D0B351D870D7E009E01F7 /* IGListKit */;
+			target = 887D0B351D870D7E009E01F7 /* IGListKit_Converse */;
 			targetProxy = 887D0B411D870D7F009E01F7 /* PBXContainerItemProxy */;
 		};
 		88DF89831E010E6A00B1B9B4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = DD3152661DE227FA00AC9D2C /* IGListKit-macOS */;
+			target = DD3152661DE227FA00AC9D2C /* IGListKit_Converse-macOS */;
 			targetProxy = 88DF89821E010E6A00B1B9B4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -2120,7 +2128,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.instagram.IGListKit;
-				PRODUCT_NAME = IGListKit;
+				PRODUCT_NAME = IGListKit_Converse;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
@@ -2147,7 +2155,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.instagram.IGListKit;
-				PRODUCT_NAME = IGListKit;
+				PRODUCT_NAME = IGListKit_Converse;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
@@ -2159,7 +2167,7 @@
 		};
 		885FE1E71DC51A0D009CE2B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1D6BFC11D5380CB8311E1029 /* Pods-IGListKit-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = F7F473C313F0C487EC123A0F /* Pods-IGListKit_Converse-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = "";
@@ -2181,7 +2189,7 @@
 		};
 		885FE1E81DC51A0D009CE2B4 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 08F0B0FD0690F4FC46DDF21B /* Pods-IGListKit-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 0D4D7B3E7731A9CCF56B2548 /* Pods-IGListKit_Converse-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = "";
@@ -2477,7 +2485,7 @@
 		};
 		887D0B4E1D870D7F009E01F7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CA8726D7FF3608E20E9F7EC6 /* Pods-IGListKitTests.debug.xcconfig */;
+			baseConfigurationReference = D3075856FD1B035926BD3BEF /* Pods-IGListKit_ConverseTests.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Manual;
@@ -2499,7 +2507,7 @@
 		};
 		887D0B4F1D870D7F009E01F7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9574C58371B7A46F62E9AC24 /* Pods-IGListKitTests.release.xcconfig */;
+			baseConfigurationReference = E2CA91CA09DBC893D174A9B7 /* Pods-IGListKit_ConverseTests.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Manual;
@@ -2630,7 +2638,7 @@
 					"-Wnullable-to-nonnull-conversion",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.instagram.IGListKit;
-				PRODUCT_NAME = IGListKit;
+				PRODUCT_NAME = IGListKit_Converse;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -2707,7 +2715,7 @@
 					"-Wnullable-to-nonnull-conversion",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.instagram.IGListKit;
-				PRODUCT_NAME = IGListKit;
+				PRODUCT_NAME = IGListKit_Converse;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_TREAT_WARNINGS_AS_ERRORS = YES;
@@ -2745,7 +2753,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		885FE1E91DC51A0D009CE2B4 /* Build configuration list for PBXNativeTarget "IGListKit-tvOS" */ = {
+		885FE1E91DC51A0D009CE2B4 /* Build configuration list for PBXNativeTarget "IGListKit_Converse-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				885FE1E51DC51A0D009CE2B4 /* Debug */,
@@ -2754,7 +2762,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		885FE1EA1DC51A0D009CE2B4 /* Build configuration list for PBXNativeTarget "IGListKit-tvOSTests" */ = {
+		885FE1EA1DC51A0D009CE2B4 /* Build configuration list for PBXNativeTarget "IGListKit_Converse-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				885FE1E71DC51A0D009CE2B4 /* Debug */,
@@ -2772,7 +2780,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		887D0B4A1D870D7F009E01F7 /* Build configuration list for PBXNativeTarget "IGListKit" */ = {
+		887D0B4A1D870D7F009E01F7 /* Build configuration list for PBXNativeTarget "IGListKit_Converse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				887D0B4B1D870D7F009E01F7 /* Debug */,
@@ -2781,7 +2789,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		887D0B4D1D870D7F009E01F7 /* Build configuration list for PBXNativeTarget "IGListKitTests" */ = {
+		887D0B4D1D870D7F009E01F7 /* Build configuration list for PBXNativeTarget "IGListKit_ConverseTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				887D0B4E1D870D7F009E01F7 /* Debug */,
@@ -2790,7 +2798,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		88DF89861E010E6A00B1B9B4 /* Build configuration list for PBXNativeTarget "IGListKit-macOSTests" */ = {
+		88DF89861E010E6A00B1B9B4 /* Build configuration list for PBXNativeTarget "IGListKit_Converse-macOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				88DF89841E010E6A00B1B9B4 /* Debug */,
@@ -2799,7 +2807,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DD3152A91DE227FA00AC9D2C /* Build configuration list for PBXNativeTarget "IGListKit-macOS" */ = {
+		DD3152A91DE227FA00AC9D2C /* Build configuration list for PBXNativeTarget "IGListKit_Converse-macOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DD3152AA1DE227FA00AC9D2C /* Debug */,

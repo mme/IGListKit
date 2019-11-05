@@ -7,7 +7,7 @@
 
 #import <XCTest/XCTest.h>
 
-#import <IGListKit/IGListCollectionViewLayout.h>
+#import <IGListKit_Converse/IGListCollectionViewLayout.h>
 
 #import "IGListCollectionViewLayoutInternal.h"
 #import "IGLayoutTestDataSource.h"

@@ -7,7 +7,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <IGListKit/IGListKit.h>
+#import <IGListKit_Converse/IGListKit.h>
 
 @interface IGTestStoryboardSupplementarySource : NSObject <IGListSupplementaryViewSource>
 

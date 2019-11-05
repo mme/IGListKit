@@ -9,7 +9,7 @@
 
 #import "IGTestDelegateDataSource.h"
 
-#import <IGListKit/IGListAdapter.h>
+#import <IGListKit_Converse/IGListAdapter.h>
 
 #import "IGTestDelegateController.h"
 #import "IGTestObject.h"

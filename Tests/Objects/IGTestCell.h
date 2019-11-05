@@ -9,7 +9,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <IGListKit/IGListBindable.h>
+#import <IGListKit_Converse/IGListBindable.h>
 
 @interface IGTestCell : UICollectionViewCell <IGListBindable>
 

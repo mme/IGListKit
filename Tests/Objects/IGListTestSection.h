@@ -9,7 +9,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <IGListKit/IGListSectionController.h>
+#import <IGListKit_Converse/IGListSectionController.h>
 
 
 @interface IGListTestSection : IGListSectionController

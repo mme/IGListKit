@@ -9,7 +9,7 @@
 
 #import "IGTestSingleItemDataSource.h"
 
-#import <IGListKit/IGListSingleSectionController.h>
+#import <IGListKit_Converse/IGListSingleSectionController.h>
 
 #import "IGTestCell.h"
 

@@ -7,7 +7,7 @@
 
 #import <XCTest/XCTest.h>
 
-#import <IGListKit/IGListKit.h>
+#import <IGListKit_Converse/IGListKit.h>
 
 #import "IGListAdapterInternal.h"
 #import "IGListTestSection.h"

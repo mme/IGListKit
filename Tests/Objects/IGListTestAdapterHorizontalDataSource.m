@@ -7,7 +7,7 @@
 
 #import "IGListTestAdapterHorizontalDataSource.h"
 
-#import <IGListKit/IGListAdapter.h>
+#import <IGListKit_Converse/IGListAdapter.h>
 
 #import "IGListTestHorizontalSection.h"
 

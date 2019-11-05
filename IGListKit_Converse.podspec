@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'IGListKit_Converse'
-  s.version = '3.4.2'
+  s.version = '3.4.3'
   s.summary = 'A data-driven UICollectionView framework.'
   s.homepage = 'https://github.com/Instagram/IGListKit'
   s.documentation_url = 'https://instagram.github.io/IGListKit'
@@ -27,11 +27,11 @@ Pod::Spec.new do |s|
 
     #[cs.ios, cs.tvos].each do |os|
     [cs.ios].each do |os|
-      os.source_files = 'Source/IGListKit/**/*.{h,m,mm}'
-      os.private_header_files = ['Source/IGListKit/Internal/*.h']
+      os.source_files = 'Source/IGListKit_Converse/**/*.{h,m,mm}'
+      os.private_header_files = ['Source/IGListKit_Converse/Internal/*.h']
     end
 
-    cs.osx.source_files = 'Source/IGListKit/IGListKit.h'
+    # cs.osx.source_files = 'Source/IGListKit/IGListKit.h'
   end
 
   s.default_subspec = 'Default'

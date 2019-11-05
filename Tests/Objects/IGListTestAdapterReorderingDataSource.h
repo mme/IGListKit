@@ -7,8 +7,8 @@
 
 #import <Foundation/Foundation.h>
 
-#import <IGListKit/IGListAdapterDataSource.h>
-#import <IGListKit/IGListAdapterMoveDelegate.h>
+#import <IGListKit_Converse/IGListAdapterDataSource.h>
+#import <IGListKit_Converse/IGListAdapterMoveDelegate.h>
 
 #import "IGListTestCase.h"
 
